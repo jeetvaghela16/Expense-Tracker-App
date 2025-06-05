@@ -32,7 +32,7 @@ Users can clear all transactions by a simple button click. A confirmation dialog
 # Light/Dark Theme Switch
 The application has a Toggle Theme option to enable Light Mode or Dark Mode for improved readability and comfort, particularly at night.
 
-????️ Technical Information
+# Technical Information
 Programming Language: Java
 
 IDE: Android Studio
