@@ -60,3 +60,8 @@ Students handling their pocket money
 Freelancers monitoring income and expenses
 
 Anyone seeking a simple personal finance tracker
+
+
+# OutPut
+
+![Image](https://github.com/user-attachments/assets/86550b86-76a9-44d7-9db2-2286b570d4b6)
